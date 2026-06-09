@@ -12,6 +12,7 @@ I'm a 3rd year student at IIIT Delhi studying Computer Science & Social Science 
 - **Image Compression (PCA + KMeans)** — ML-based pipeline for dimensionality reduction & color quantization with visual quality analysis
 - **Farmer Seva** — Web app empowering farmers with automated government scheme form-filling, weather updates & crop info
 - **Huffman Coding** — Efficient text & image compression using binary tree encoding from scratch
+- **AI-Powered Codebase Assistant for GitHub Repositories
 
 ---
 
